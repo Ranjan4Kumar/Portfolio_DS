@@ -6,7 +6,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Examining the adaptibility of online education by students](https://github.com/Ranjan4Kumar/Adaptive_Online_Education)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="/Online_Edu.jpeg"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
