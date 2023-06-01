@@ -22,7 +22,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[The classification goal is to predict if the client will subscribe a term deposit](https://github.com/prativap1/logistic-regression/blob/main/LogProject.ipynb)
+[The classification goal is to predict if the client will subscribe a term deposit](https://github.com/Ranjan4Kumar/Portuguese-banking-institution)
 
 <img src="images/Bank.jpg? raw=true"/>
 
@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** . To explore Bank's Marketing campaign and create meaningful insights from the data
 
-**Quantifiable result:** We could Classify if the client will subscribe a term deposit resulting in [**91.5%** accuracy ](https://github.com/prativap1/logistic-regression/blob/main/LogProject.ipynb)).
+**Quantifiable result:** We could Classify if the client will subscribe a term deposit resulting in [**91.5%** accuracy ](https://github.com/Ranjan4Kumar/Portuguese-banking-institution/blob/main/analysis-on-banking-data.ipynb).
 
 - CatBoost is an open-source gradient boosting library for decision trees developed by Yandex. 
 It is designed to handle categorical data efficiently and is particularly useful for working with datasets that contain a large number of categorical features. 
