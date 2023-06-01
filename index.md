@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Prediction on Student's Adaptability Level in Online Education.
 
-**Quantifiable result:** We could predict the Adaptability Level resulting in [**45%** accuracy](https://github.com/Ranjan4Kumar/Adaptive_Online_Education/blob/main/Adaptivity_online_Edu.ipynb).
+**Quantifiable result:** We could predict the Adaptability Level resulting in [**89%** accuracy](https://github.com/Ranjan4Kumar/Adaptive_Online_Education/blob/main/Adaptivity_online_Edu.ipynb).
 
 - Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
